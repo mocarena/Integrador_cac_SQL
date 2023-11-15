@@ -1,0 +1,11 @@
+id_oradores,nombre,apellido,profesion,tema_presentacion,email,fecha_nacimiento
+1,Juan,Pérez,Ingeniero,"Inteligencia Artificial",juan.perez@email.com,1985-05-10
+2,María,González,Doctora,"Medicina del futuro",maria.gonzalez@email.com,1978-08-22
+3,Carlos,López,Arquitecto,"Sostenibilidad en la construcción",carlos.lopez@email.com,1990-03-15
+4,Ana,Martínez,Programadora,"Desarrollo web",ana.martinez@email.com,1982-11-30
+5,Pedro,Ramírez,Chef,"Cocina internacional",pedro.ramirez@email.com,1975-07-12
+6,Laura,Sánchez,Diseñadora,"Diseño de moda",laura.sanchez@email.com,1988-02-18
+7,Miguel,Fernández,Músico,"Composición musical",miguel.fernandez@email.com,1980-06-25
+8,Sofía,Díaz,Psicóloga,"Salud mental",sofia.diaz@email.com,1987-09-05
+9,Alejandro,López,"Ingeniero Civil","Ingeniería estructural",alejandro.lopez@email.com,1984-04-03
+10,Isabel,Torres,Periodista,"Periodismo de investigación",isabel.torres@email.com,1992-01-15
